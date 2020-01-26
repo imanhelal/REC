@@ -1,6 +1,6 @@
-# Runtime Conformance Checking (RCC) Implementation and Evaulation
+# Runtime Event Correlation (REC) Implementation and Evaulation
 
-The source code associates the paper "Runtime Conformance Checking for Unlabeled Events"
+The source code associates the paper "Correlating Unlabeled Events at Runtime"
 By: Iman Helal, Ahmed Hany
 
 To run our code first:
@@ -14,4 +14,4 @@ To run our code first:
 
 The output is stored in a database file inside MonitorDB folder.
 
-This research work is copy righted to: Iman Helal, Ahmed Hany @2018 
+This research work is copy righted to: Iman Helal, Ahmed Hany @2020
